@@ -42,4 +42,4 @@ Burada bazı projelerimi bulabilirsiniz. Daha fazla detay için her projenin ken
 
 Bu projelerde kullandığım bazı diller ve araçlar:
 
-[![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetkaanaksoy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetkaanaks13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
