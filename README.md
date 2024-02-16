@@ -1,25 +1,24 @@
 # Merhaba, GitHub Profilime Hoş Geldiniz! 👋
 
-Ben Mehmet Kaan Aksoy, yazılım geliştirme ve teknolojiye tutkulu bir mühendisim. Bu profilde, yaratıcı projelerimi ve teknolojiye olan ilgimi paylaşıyorum.
+Ben Mehmet Kaan Aksoy, yazılım geliştirme alanında uzmanlaşmış bir yazılım mühendisiyim. Bu profilde, deneyimlerimi ve projelerimi paylaşıyorum.
 
 ## 🚀 Hakkımda
 
 🎓 Bilgisayar Mühendisliği mezunuyum ve Yıldız Teknik Üniversitesi'nden mezun oldum. Şu anda XYZ Şirketi'nde Yazılım Mühendisi olarak çalışıyorum.
 
 💼 Profesyonel deneyimim:
-- Frontend ve Backend geliştirme
-- Web uygulamaları ve RESTful API'ler oluşturma
-- Veritabanı yönetimi ve optimizasyonu
+- 10 yıldan fazla yazılım geliştirme tecrübesi
+- Büyük ölçekli projelerde liderlik yapma becerisi
+- Derinlemesine bilgi: Backend, Frontend ve veritabanı sistemleri
 
-🌱 Şu anda kendimi geliştirmekte olduğum teknolojiler:
-- Node.js ve Express.js
-- React.js ve Vue.js gibi modern frontend teknolojileri
-- Veritabanları: MongoDB, PostgreSQL
+🌱 Şu anda kendimi geliştirmekte olduğum alanlar:
+- Yüksek performanslı sistemlerin tasarımı ve uygulanması
+- Yapay Zeka ve Makine Öğrenmesi
+- Büyük veri analizi ve işleme
 
 ⚡ İlgi Alanlarım:
-- Yaratıcı ve yenilikçi projeler geliştirmek
-- Teknolojik trendleri takip etmek
-- Yazılım mühendisliği ve tasarım prensipleri
+- Teknolojik trendleri takip etmek ve yenilikçi çözümler üretmek
+- Yazılım mühendisliği prensiplerini yaymak ve yeni nesil geliştiricileri eğitmek
 
 ## 📫 İletişim
 
