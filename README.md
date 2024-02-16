@@ -36,7 +36,7 @@ Burada bazı projelerimi bulabilirsiniz. Daha fazla detay için her projenin ken
 
 ## 📊 GitHub İstatistikleri
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetkaanaks13&show_icons=true)
 
 ## 💻 Dil ve Araçlar
 
