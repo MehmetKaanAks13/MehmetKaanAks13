@@ -38,14 +38,8 @@ Burada bazı projelerimi bulabilirsiniz. Daha fazla detay için her projenin ken
 
 [![Mehmet Kaan Aksoy'un GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=mehmetkaanaksoy)](https://github.com/anuraghazra/github-readme-stats)
 
-## 💻 Kullandığım Teknolojiler
+## 💻 Dil ve Araçlar
 
-Bu projelerde kullandığım bazı teknolojiler:
+Bu projelerde kullandığım bazı diller ve araçlar:
 
-- JavaScript (Node.js, React.js)
-- HTML, CSS
-- Java
-- PHP
-- SQL
-- Git
-
+[![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetkaanaksoy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
