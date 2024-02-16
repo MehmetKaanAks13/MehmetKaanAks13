@@ -1,15 +1,15 @@
 # Merhaba, GitHub Profilime Hoş Geldiniz! 👋
 
-Ben Mehmet Kaan Aksoy, yazılım geliştirme alanında uzmanlaşmış bir yazılım mühendisiyim. Bu profilde, deneyimlerimi ve projelerimi paylaşıyorum.
+Ben Mehmet Kaan Aksoy, yazılım geliştirme alanında uzmanlaşmış bir FullStack developer'ım. Bu profilde, deneyimlerimi ve projelerimi paylaşıyorum.
 
 ## 🚀 Hakkımda
 
-🎓 Bilgisayar Mühendisliği mezunuyum ve Yıldız Teknik Üniversitesi'nden mezun oldum. Şu anda XYZ Şirketi'nde Yazılım Mühendisi olarak çalışıyorum.
+🎓 Bilgisayar Mühendisliği mezunuyum ve Yıldız Teknik Üniversitesi'nden mezun oldum. Şu anda XYZ Şirketi'nde FullStack Developer olarak çalışıyorum.
 
 💼 Profesyonel deneyimim:
 - 10 yıldan fazla yazılım geliştirme tecrübesi
 - Büyük ölçekli projelerde liderlik yapma becerisi
-- Derinlemesine bilgi: Backend, Frontend ve veritabanı sistemleri
+- Derinlemesine bilgi: Frontend, Backend ve veritabanı sistemleri
 
 🌱 Şu anda kendimi geliştirmekte olduğum alanlar:
 - Yüksek performanslı sistemlerin tasarımı ve uygulanması
@@ -38,7 +38,14 @@ Burada bazı projelerimi bulabilirsiniz. Daha fazla detay için her projenin ken
 
 [![Mehmet Kaan Aksoy'un GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=mehmetkaanaksoy)](https://github.com/anuraghazra/github-readme-stats)
 
-## 💻 Dil ve Araçlar
+## 💻 Kullandığım Teknolojiler
 
-[![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetkaanaksoy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Bu projelerde kullandığım bazı teknolojiler:
+
+- JavaScript (Node.js, React.js)
+- HTML, CSS
+- Java
+- PHP
+- SQL
+- Git
 
