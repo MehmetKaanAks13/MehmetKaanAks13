@@ -13,13 +13,13 @@ Ben Mehmet Kaan Aksoy, yazılım geliştirme alanında uzmanlaşmış bir FullSt
 
 ⚡ İlgi Alanlarım:
 - Frame Work yazılımlar geliştirmek
-- 
+- Kaliteli ve güçlü Web Siteleri oluştrmak
 
 ## 📫 İletişim
 
 Benimle iletişime geçmek için:
 - E-posta: mehmetkaanaksoy13@gmail.com
-- LinkedIn: [linkedin.com/in/mehmet-kaan-aksoy-61a3502a2/y](https://www.linkedin.com/in/mehmet-kaan-aksoy-61a3502a2/)
+- LinkedIn: [linkedin.com/in/mehmet-kaan-aksoy-61a3502a2/](https://www.linkedin.com/in/mehmet-kaan-aksoy-61a3502a2/)
 
 ## 🛠️ Projeler
 
