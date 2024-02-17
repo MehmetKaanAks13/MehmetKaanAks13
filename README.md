@@ -1,40 +1,43 @@
-# Merhaba, GitHub Profilime Hoş Geldiniz! 👋
+# Welcome to My GitHub Profile! 👋
 
-Ben Mehmet Kaan Aksoy, yazılım geliştirme alanında uzmanlaşmış bir FullStack developer'ım. Bu profilde, deneyimlerimi ve projelerimi paylaşıyorum.
+I'm Mehmet Kaan Aksoy, a FullStack developer specialized in software development. On this profile, I share my experiences and projects.
 
-## 🚀 Hakkımda
+## 🚀 About Me
 
-- Derinlemesine bilgi: Frontend, Backend ve veritabanı sistemleri
+- In-depth knowledge: Frontend, Backend, and database systems.
 
-🌱 Şu anda kendimi geliştirmekte olduğum alanlar:
-- Yüksek performanslı sistemlerin tasarımı ve uygulanması
-- Yapay Zeka ve Makine Öğrenmesi
-- Büyük veri analizi ve işleme
+🌱 Currently, I'm focusing on:
 
-⚡ İlgi Alanlarım:
-- Frame Work yazılımlar geliştirmek
-- Kaliteli ve güçlü Web Siteleri oluştrmak
+- Designing and implementing high-performance systems
+- Artificial Intelligence and Machine Learning
+- Big data analysis and processing
 
-## 📫 İletişim
+⚡ Interests:
 
-Benimle iletişime geçmek için:
-- E-posta: mehmetkaanaksoy13@gmail.com
+- Developing framework software
+- Creating high-quality and robust websites
+
+## 📫 Contact
+
+To get in touch with me:
+
+- Email: mehmetkaanaksoy13@gmail.com
 - LinkedIn: [linkedin.com/in/mehmet-kaan-aksoy-61a3502a2/](https://www.linkedin.com/in/mehmet-kaan-aksoy-61a3502a2/)
 
-## 🛠️ Projeler
+## 🛠️ Projects
 
-Burada bazı projelerimi bulabilirsiniz. Daha fazla detay için her projenin kendi repository'sine göz atabilirsiniz.
+You can find some of my projects here. For more details, you can check out each project's repository.
 
-1. [Proje 1]: Kısa bir açıklama
-2. [Proje 2]: Kısa bir açıklama
-3. [Proje 3]: Kısa bir açıklama
+1. [Project 1]: A brief description
+2. [Project 2]: A brief description
+3. [Project 3]: A brief description
 
-## 📊 GitHub İstatistikleri
+## 📊 GitHub Statistics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetkaanaks13&show_icons=true)
 
-## 💻 Dil ve Araçlar
+## 💻 Languages and Tools
 
-Bu projelerde kullandığım bazı diller ve araçlar:
+Some languages and tools I've used in these projects:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetkaanaks13&hide_progress=true)
