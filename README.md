@@ -34,7 +34,7 @@ You can find some of my projects here. For more details, you can check out each 
 
 ## 📊 GitHub Statistics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetkaanaks13&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anurag&show_icons=true)
 
 ## 💻 Languages and Tools
 
