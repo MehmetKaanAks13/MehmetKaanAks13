@@ -4,11 +4,6 @@ Ben Mehmet Kaan Aksoy, yazılım geliştirme alanında uzmanlaşmış bir FullSt
 
 ## 🚀 Hakkımda
 
-🎓 Bilgisayar Mühendisliği mezunuyum ve Yıldız Teknik Üniversitesi'nden mezun oldum. Şu anda XYZ Şirketi'nde FullStack Developer olarak çalışıyorum.
-
-💼 Profesyonel deneyimim:
-- 10 yıldan fazla yazılım geliştirme tecrübesi
-- Büyük ölçekli projelerde liderlik yapma becerisi
 - Derinlemesine bilgi: Frontend, Backend ve veritabanı sistemleri
 
 🌱 Şu anda kendimi geliştirmekte olduğum alanlar:
@@ -17,14 +12,14 @@ Ben Mehmet Kaan Aksoy, yazılım geliştirme alanında uzmanlaşmış bir FullSt
 - Büyük veri analizi ve işleme
 
 ⚡ İlgi Alanlarım:
-- Teknolojik trendleri takip etmek ve yenilikçi çözümler üretmek
-- Yazılım mühendisliği prensiplerini yaymak ve yeni nesil geliştiricileri eğitmek
+- Frame Work yazılımlar geliştirmek
+- 
 
 ## 📫 İletişim
 
 Benimle iletişime geçmek için:
-- E-posta: mehmetkaanaksoy@example.com
-- LinkedIn: [linkedin.com/in/mehmetkaanaksoy](https://www.linkedin.com/in/mehmetkaanaksoy)
+- E-posta: mehmetkaanaksoy13@gmail.com
+- LinkedIn: [linkedin.com/in/mehmet-kaan-aksoy-61a3502a2/y](https://www.linkedin.com/in/mehmet-kaan-aksoy-61a3502a2/)
 
 ## 🛠️ Projeler
 
