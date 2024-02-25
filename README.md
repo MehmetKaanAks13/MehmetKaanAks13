@@ -29,8 +29,6 @@ To get in touch with me:
 You can find some of my projects here. For more details, you can check out each project's repository.
 
 1. codeAI - 1.0.0: This is a code based AI bot, it has the ability to analyze your code
-2. [Project 2]: A brief description
-3. [Project 3]: A brief description
 
 ## 📊 GitHub Statistics
 
