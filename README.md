@@ -1,41 +1,26 @@
-# Welcome to My GitHub Profile! 👋
+# Hello there! 👋
 
-I'm Mehmet Kaan Aksoy, a FullStack developer specialized in software development. On this profile, I share my experiences and projects.
+I'm Mehmet Kaan Aksoy, and this is my code universe. I'm a software engineer driven by my passion for software development. Here, I share the code I've learned and developed while working on various projects. I'm also here to contribute to open-source projects.
 
-## 🚀 About Me
+## 🚀 Project Samples
 
-- In-depth knowledge: Frontend, Backend, and database systems.
+- **[Project Name 1](link)**: In this project, [brief description].
+- **[Project Name 2](link)**: In this project, [brief description].
+- **[Project Name 3](link)**: In this project, [brief description].
 
-🌱 Currently, I'm focusing on:
+## 📱 Technologies and Skills
 
-- Designing and implementing high-performance systems
-- Artificial Intelligence and Machine Learning
-- Big data analysis and processing
+- **📲 Languages**: Python, Java, C++, Go
+- **🌐 Web Development**: HTML, CSS, SCSS JavaScript, React, Node.js, PHP
+- **🛢️ Databases**: SQL, PostgreSQL
+- **🔨 Tools**: Git, Docker, VS Code
+- **📟 IDEs**: VS Code, CLion, PyCharm, Intellij IDEA, GoLand, PhpStorm, WebStorm
 
-⚡ Interests:
+## 🤝 Contributions and Collaboration
 
-- Developing framework software
-- Creating high-quality and robust websites
+Contributing to the open-source community is important to me. I contribute to various projects aligned with my interests and am happy to collaborate on new projects.
 
 ## 📫 Contact
 
-To get in touch with me:
-
-- Email: mehmetkaanaksoy13@gmail.com
-- LinkedIn: [linkedin.com/in/mehmet-kaan-aksoy-61a3502a2/](https://www.linkedin.com/in/mehmet-kaan-aksoy-61a3502a2/)
-
-## 🛠️ Projects
-
-You can find some of my projects here. For more details, you can check out each project's repository.
-
-1. codeAI - 1.0.0: This is a code based AI bot, it has the ability to analyze your code
-
-## 📊 GitHub Statistics
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetkaanaks13&show_icons=true)
-
-## 💻 Languages and Tools
-
-Some languages and tools I've used in these projects:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetkaanaks13&hide_progress=true)
+Feel free to reach out to me! Whether it's collaborating on open-source projects or just asking a question, don't hesitate to contact me.
+You can reach me via mehmetkaanaksoy13@gmail.com or [LinkedIn](https://www.linkedin.com/in/mehmet-kaan-aksoy-61a3502a2/).
