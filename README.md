@@ -10,7 +10,7 @@ I'm Mehmet Kaan Aksoy, and this is my code universe. I'm a software engineer dri
 
 - **📲 Languages**: Python, Java, C++, Go
 - **🌐 Web Development**: HTML, CSS, SCSS JavaScript, React, Node.js, PHP
-- **🛢️ Databases**: SQL, PostgreSQL
+- **🛢️ Databases**: SQL, PostgreSQL, Microsoft SQL Server, mySQL, MongoDB
 - **🔨 Tools**: Git, Docker, VS Code
 - **📟 IDEs**: VS Code, CLion, PyCharm, Intellij IDEA, GoLand, PhpStorm, WebStorm
 
