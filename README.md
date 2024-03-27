@@ -4,9 +4,7 @@ I'm Mehmet Kaan Aksoy, and this is my code universe. I'm a software engineer dri
 
 ## 🚀 Project Samples
 
-- **[Project Name 1](link)**: In this project, [brief description].
-- **[Project Name 2](link)**: In this project, [brief description].
-- **[Project Name 3](link)**: In this project, [brief description].
+- **[Example C++ Lexer](https://gist.github.com/MehmetKaanAks13/a0cbf23d2ae59a3d4e66ea3c35dc735f)**: This project includes a customizable lexer implementation in C++. It takes input text and produces tokens that describe language structures.,
 
 ## 📱 Technologies and Skills
 
